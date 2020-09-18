@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<userOverrides>
+    <override>
+        <path>C:\Users\61009\Desktop\work\测试程序\test1\Core\Src\driverprodemo.c</path>
+        <encoding>System</encoding>
+    </override>
+    <override>
+        <path>C:\Users\61009\Desktop\work\测试程序\test1\Core\Src\main.c</path>
+        <encoding>System</encoding>
+    </override>
+</userOverrides>
